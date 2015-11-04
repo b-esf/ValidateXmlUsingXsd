@@ -6,5 +6,5 @@ Currently, the program takes test_xml.xml and validates it against test_xsd.xsd 
 
 
 TODO:
--Change from console to GUI
--Allow user to choose XML and XSD files from any location.
+-Change from console to GUI\r\n
+-Allow user to choose XML and XSD files from any location.\r\n
